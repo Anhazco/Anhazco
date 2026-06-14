@@ -36,9 +36,6 @@ Me especializo en la construcción de aplicaciones web eficientes, sistemas de g
 * **👁️ Visionary** — *Plataforma SaaS de portafolios premium para fotógrafos.* Diseñada para creativos visuales, optimizando la gestión de medios y la carga de imágenes.  
   `React` `Vite` `Tailwind CSS v4` `Framer Motion` `Firebase`
 
-* **🐄 MymbaSoft** — *Sistema de gestión ganadera y operaciones agropecuarias.* Control integral de inventario, ganadería y reportería automatizada en PDF.  
-  `C#` `.NET 8` `ASP.NET Core MVC` `Entity Framework Core` `SQL Server`
-
 * **⛪ SIGASC** — *Sistema de gestión de actas sacramentales.* Digitalización, control y administración eclesiástica eficiente.  
   `Next.js` `React` `TypeScript` `Prisma ORM` `SQL Server`
 
