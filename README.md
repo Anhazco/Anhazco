@@ -30,18 +30,23 @@ Me especializo en la construcción de aplicaciones web eficientes, sistemas de g
 
 ### 📂 Proyectos Destacados
 
-* **🏢 GENSYS** *Sistema especializado de gestión y automatización.* Desarrollado con una arquitectura sólida para el manejo de datos complejos.  
-    *(C#, .NET Core, Astro, TypeScript)*
+* **🏢 GENSYS** — *Sistema especializado de automatización y gestión ganadera.* Desarrollado con una arquitectura moderna para el manejo de datos complejos de campo.  
+  `C#` `.NET Core` `Astro` `TypeScript` `SQL Server`
 
-* **👁️ Visionary** *Plataforma SaaS interactiva.* Enfocada en la optimización del lado del cliente y la gestión eficiente de recursos visuales.  
-    *(JavaScript, Frontend Moderno)*
+* **👁️ Visionary** — *Plataforma SaaS de portafolios premium para fotógrafos.* Diseñada para creativos visuales, optimizando la gestión de medios y la carga de imágenes.  
+  `React` `Vite` `Tailwind CSS v4` `Framer Motion` `Firebase`
 
-* **💰 CrediMovil** *(En desarrollo)* *Sistema de gestión de financiamiento digital.* Manejo de lógica de negocios para límites de crédito y cálculos de préstamos.  
-    *(C#, Entity Framework)*
+* **🐄 MymbaSoft** — *Sistema de gestión ganadera y operaciones agropecuarias.* Control integral de inventario, ganadería y reportería automatizada en PDF.  
+  `C#` `.NET 8` `ASP.NET Core MVC` `Entity Framework Core` `SQL Server`
 
-* **⛪ SIGASC** *Sistema informático de gestión de actas sacramentales.* *(TypeScript, CSS)*
+* **💰 CrediMovil** *(En desarrollo)* — *Sistema de gestión de financiamiento digital.* Manejo automatizado de límites de crédito y cálculos financieros.  
+  `C#` `.NET` `Entity Framework`
 
-* **📜 GestCon_Anhazco** *Sistema de gestión de convenios interinstitucionales.* *(Java)*
+* **⛪ SIGASC** — *Sistema de gestión de actas sacramentales.* Digitalización, control y administración eclesiástica eficiente.  
+  `Next.js` `React` `TypeScript` `Prisma ORM` `SQL Server`
+
+* **📜 GestCon_Anhazco** — *Sistema de gestión de convenios interinstitucionales.* Plataforma para el control y seguimiento de acuerdos educativos.  
+  `Java`
 
 ---
 
