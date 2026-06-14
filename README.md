@@ -1,4 +1,4 @@
-# Hola, soy Cristian Añazco 👋
+# Hola, soy Cristian Añazco 
 
 **Desarrollador Full Stack | Arquitecturas Escalables | C# & .NET**
 
