@@ -9,9 +9,9 @@ Me especializo en la construcción de aplicaciones web eficientes, sistemas de g
 ### 🚀 Sobre Mí
 
 * 💻 Actualmente enfocado en el desarrollo de **sistemas de gestión y plataformas SaaS** (como herramientas para fotógrafos profesionales y sistemas financieros).
-* 🎓 Estudiante universitario realizando investigaciones sobre **privacidad digital**.
+* 🎓 Estudiante de la carrera de **Análisis de Sistemas**.
 * 🐧 Entusiasta de **Linux**, la terminal y la automatización de flujos de trabajo.
-* ⚡ Mi filosofía es construir software que no solo funcione, sino que sea escalable y fácil de mantener.
+* ⚡ Enfocado en la automatización de procesos y la optimización de flujos de trabajo.
 
 ---
 
@@ -38,9 +38,6 @@ Me especializo en la construcción de aplicaciones web eficientes, sistemas de g
 
 * **🐄 MymbaSoft** — *Sistema de gestión ganadera y operaciones agropecuarias.* Control integral de inventario, ganadería y reportería automatizada en PDF.  
   `C#` `.NET 8` `ASP.NET Core MVC` `Entity Framework Core` `SQL Server`
-
-* **💰 CrediMovil** *(En desarrollo)* — *Sistema de gestión de financiamiento digital.* Manejo automatizado de límites de crédito y cálculos financieros.  
-  `C#` `.NET` `Entity Framework`
 
 * **⛪ SIGASC** — *Sistema de gestión de actas sacramentales.* Digitalización, control y administración eclesiástica eficiente.  
   `Next.js` `React` `TypeScript` `Prisma ORM` `SQL Server`
