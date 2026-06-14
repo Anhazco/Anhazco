@@ -30,13 +30,6 @@ Desarrollador Full Stack especializado en la construcción de aplicaciones web e
 
 ---
 
-### 📊 Mis Lenguajes más Usados
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anhazco&layout=compact&theme=calm&hide_border=true&title_color=4F46E5&text_color=374151" alt="Top Languages" width="60%" />
-</p>
-
----
 
 ### 📫 Contacto
 
