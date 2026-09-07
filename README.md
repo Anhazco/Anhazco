@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hola, soy Cristian Añazco 👋</h1>
+  <h1>Hola, soy Cristian 👋</h1>
 
   <a href="https://github.com/Anhazco">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Full-Stack+Software+Developer;Especialista+en+.NET+%7C+C%23+%7C+ASP.NET+Core;Frontend+con+React+%7C+Astro+%7C+TypeScript;Arquitecturas+Escalables+%26+Sistemas+SaaS;Desde+Paraguay+%F0%9F%87%B5%F0%9F%87%BE" alt="Typing SVG" />
